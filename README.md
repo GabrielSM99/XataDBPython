@@ -21,10 +21,13 @@ git clone https://github.com/GabrielSM99/XataDBPython.git
 
 1-
 sudo apt update
+
 sudo apt install -y pkg-config libcairo2-dev
+
 pip install -r requirements.txt
 
 -Abra o jupyter notebook
 
 pip install notebook
+
 jupyter notebook

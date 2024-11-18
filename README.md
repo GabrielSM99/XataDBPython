@@ -14,7 +14,7 @@ XataDB: Banco de dados para armazenar as informações.
 
 **Como usar:**
 
--Clone o repositório
+*Clone o repositório*
 
 git clone https://github.com/GabrielSM99/XataDBPython.git
 

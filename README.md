@@ -19,7 +19,6 @@ git clone https://github.com/GabrielSM99/XataDBPython.git
 
 -Instale os requisitos
 
-1-
 sudo apt update
 
 sudo apt install -y pkg-config libcairo2-dev

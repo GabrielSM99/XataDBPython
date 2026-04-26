@@ -1,0 +1,18 @@
+# Pastas de ambiente virtual
+myenv/
+venv/
+env/
+ENV/
+
+# Arquivos de segurança
+.env
+
+# Cache de Python e Notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+.vscode/
+.idea/
